@@ -6,7 +6,7 @@ Built using ServiceNow ITSM platform, this project demonstrates catalog manageme
 Browse car models in Service Portal
 Order cars directly from catalog
 Automatic request number generation 
-Email notification on approval/rejection
+Email notification on approval/rejection 
 Delivery tracking via task system
 🛠 Admin Features:
 Create and manage catalog items
