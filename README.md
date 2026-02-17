@@ -97,7 +97,7 @@ Manual testing in Service Portal
 Approval testing
 Task validation
 Email notification testing
-Workflow execution tracking
+Workflow execution tracking 
 📊 Results
 ✔ Catalog items visible in portal
 ✔ Requests generate automatically
