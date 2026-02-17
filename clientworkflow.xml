@@ -1,0 +1,13 @@
+(function() {
+	
+	var inputs = {};
+
+	inputs['table_name'] = 'Table Name';
+	inputs['request_item'] = { // GlideRecord 
+		table : 'sc_req_item', 
+		sys_id :  
+	};
+
+	GlideFlow.startFlow('global.tests', inputs)
+
+})();
