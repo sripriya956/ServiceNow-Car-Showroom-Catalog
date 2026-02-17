@@ -18,7 +18,7 @@ It includes:
 ## Developed By
 
 Name: PVS SRIPRIYA 
-Github: https://github.com/sripriya956
+
 Email:pvssripriya18@gmail.com
 
 ---
