@@ -52,30 +52,7 @@ Mahendra-Car-Showroom/
 │   ├── workflow.png
 │   ├── approvals.png
 │   ├── service_portal.png
-⚙️ Setup Instructions
-1️⃣ Clone Repository
-Copy code
 
-git clone https://github.com/your-username/Mahendra-Car-Showroom.git
-2️⃣ Import Update Set in ServiceNow
-Navigate to System Update Sets → Retrieved Update Sets
-Upload Car_Showroom_Update_Set.xml
-Click Preview
-Click Commit
-3️⃣ Access Service Portal
-Open your instance URL and add:
-Copy code
-
-/sp
-Example:
-Copy code
-
-https://yourinstance.service-now.com/sp
-Search for:
-Polo
-Thar
-XUV700
-Order the car.
 🔄 Workflow Process
 User orders car from Service Portal
 Request created (sc_req_item)
